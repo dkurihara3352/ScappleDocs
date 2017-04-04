@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="5C2ED08C-C476-49EC-A576-0E6014EBFB73">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="182.0,74.0" Width="105.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Usecase Example</String>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="224.238281,129.042969" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>User Goal</String>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="245.0,158.0" Width="72.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Equip Items</String>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="245.0,186.0" Width="95.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Dismantle Items</String>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="245.0,214.0" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Craft Items</String>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="245.0,242.0" Width="89.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Powerup Items</String>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="245.0,270.0" Width="88.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Gradeup Items</String>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="245.0,298.0" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Browse Items</String>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="245.0,326.0" Width="80.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Inspect Items</String>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="366.183594,134.171875" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>System —&gt; PlayerChatacterCustomization</String>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="667.0,82.0" Width="125.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Usecase Breakdowns</String>
+        </Note>
+        <Note ID="11" FontSize="16.164216" Position="661.980469,159.585938" Width="86.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Equip Item</String>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="686.0,203.0" Width="73.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Goal Level: </String>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="686.0,231.0" Width="134.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Main Success Scenario</String>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="714.0,259.0" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>description</String>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="714.0,287.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>A</String>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="714.0,343.0" Width="299.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player browse through all the available items in the pool slot group. By picking up an item the appropriate slot groups become available for selection. 
+SlotGroupManager (SGM) tracks what slottable is picked up, where it is, what element it hovers over.
+Dropping the item on one of those selectable slot group perform a series of actions, starting from updating the database, sort entries, align them and finally update the visual.</String>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="1033.421684,291.391006" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>B</String>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="1033.421684,319.391006" Width="299.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player taps on the target item’s slottable to open the inspector. Within the inspector there’s a series of buttons with a variety of commands associated with each. One of them labeled “Equip” enables the player to perform equivalent series of actions with case A.</String>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="714.0,315.0" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>main</String>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="714.0,483.0" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>extensions</String>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="714.0,511.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Dropping the slottable onto another slottable triggers a variety of different actions depending on the status of the dropped slottable, the status of the receiving slottable, the status of the slot group which the dropped slottable originally resided, and the status of the slot group which the receiving slottable resides.</String>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="245.0,354.0" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Sort Items</String>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="245.0,382.0" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Align Items</String>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="756.388091,666.087416" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>if the dropped point covers no selectable slottable nor slot group, it reverts back to the original slot.</String>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="756.388091,722.087416" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>if the receiving slottable belongs to the original SG, it reverts back.</String>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="756.388091,764.087416" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>if the receiving slottable has the same item as does the original, and the shared item isStackable, Add transaction is performed.</String>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="756.0,834.0" Width="193.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>else Swap transaction takes place.</String>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="1033.0,403.0" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>extensions</String>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="1033.0,431.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>if the item is already equipped, the button’s label changes to read “Unequip”, only when the SG isSubtractable == true</String>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="1033.0,549.0" Width="74.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>precondition</String>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="1033.0,577.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>SGM holds references to the active slot groups that corresponds to the equipment inventories.</String>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="1033.0,633.0" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>postcondition</String>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="1033.0,661.0" Width="148.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>the database is up-to-date</String>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="702.0,877.0" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>steps</String>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="736.872396,958.395833" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>1. Player browses and chooses the item to equip</String>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="736.872396,1000.395833" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>2 .Player drags the slottable around the canvas to decide where to land</String>
+        </Note>
+        <Note ID="38" FontSize="12.0" Position="736.872396,1084.395833" Width="190.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>4. The system indicates the action</String>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="736.872396,1112.395833" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>5. Player drops (releases the slottable) to confirm the action. </String>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="736.872396,1042.395833" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>3. The system computes consequent action</String>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="736.872396,1154.395833" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>6. The system performs the action procedurally</String>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="675.873698,1221.421224" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Extensions</String>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="697.058594,1250.355469" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>0a: The item is not of EquippableGear</String>
+        </Note>
+        <Note ID="47" FontSize="12.0" Position="722.85026,1292.876953" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>.1: the item is deemed not selectable and greyed out.</String>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="736.85026,916.209635" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>0. The system filters out the selectable slottables</String>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <Stacks>
+        <Stack>2-8, 22-23</Stack>
+        <Stack>12-13</Stack>
+        <Stack>14-15, 19, 16, 20-21</Stack>
+        <Stack>17-18, 28-29</Stack>
+        <Stack>24-27</Stack>
+        <Stack>31-34</Stack>
+        <Stack>36-37, 42, 38, 41, 43</Stack>
+    </Stacks>
+    <AutoFit>0-8, 10-15, 17, 19-20, 22-23, 27-28, 31, 33-35, 38, 45</AutoFit>
+    <NoteStyles>
+        <Style Name="Title Text" ID="362046EC-BF5A-4E06-9C6A-F90E2DBA9322" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Red Text" ID="09A0B4FD-75DA-493C-938F-2FE295D3D7F2" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="33610878-7247-4867-978D-F1BDB9508116" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Yellow Bubble" ID="6B6867BF-13B9-4BAF-9CC1-3E3A9106D4C4" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="7B916BD2-3E67-492B-9646-27AA5831E43A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882328 0.80198</FillColor>
+        </Style>
+        <Style Name="Blue Bubble" ID="684AE962-D834-4576-BF93-BF1DD6BCBD6F" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="68508B8F-EE18-428C-BE64-814B8A2A0BED" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
