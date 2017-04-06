@@ -1,566 +1,498 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScappleDocument Version="1.1" ID="5C2ED08C-C476-49EC-A576-0E6014EBFB73">
+<ScappleDocument Version="1.1" ID="57034EB2-A1E8-4DE0-ADCA-4D2A29C6CE2F">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="182.0,74.0" Width="105.0">
+        <Note ID="0" FontSize="20.404412" Position="40.417239,70.068853" Width="209.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Usecase Example</String>
+            <String>Top Level Architecture</String>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="224.238281,129.042969" Width="63.0">
+        <Note ID="1" FontSize="12.0" Position="211.734718,214.513565" Width="93.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>User Goal</String>
+            <String>Core Gameplay</String>
+            <ConnectedNoteIDs>8</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="245.0,158.0" Width="72.0">
+        <Note ID="2" FontSize="12.0" Position="211.734718,242.513565" Width="124.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Equip Items</String>
-            <ConnectedNoteIDs>7-8</ConnectedNoteIDs>
+            <String>Supportive Gameplay</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="245.0,186.0" Width="95.0">
+        <Note ID="3" FontSize="12.0" Position="211.734718,270.513565" Width="47.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Dismantle Items</String>
-            <ConnectedNoteIDs>7-8</ConnectedNoteIDs>
+            <String>Utilities</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="245.0,214.0" Width="67.0">
+        <Note ID="4" FontSize="12.0" Position="428.734718,167.513565" Width="91.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Craft Items</String>
-            <ConnectedNoteIDs>7-8</ConnectedNoteIDs>
+            <String>gameplay cycle</String>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="245.0,242.0" Width="89.0">
+        <Note ID="5" FontSize="12.0" Position="449.430031,194.915908" Width="53.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Powerup Items</String>
-            <ConnectedNoteIDs>7-8</ConnectedNoteIDs>
+            <String>Running</String>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="245.0,270.0" Width="88.0">
+        <Note ID="6" FontSize="12.0" Position="449.430031,222.915908" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Gradeup Items</String>
-            <ConnectedNoteIDs>7-8</ConnectedNoteIDs>
+            <String>Shooting</String>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="381.68929,215.368652" Width="81.0">
+        <Note ID="7" FontSize="12.0" Position="449.430031,250.915908" Width="145.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Browse Items</String>
-            <ConnectedNoteIDs>2-6, 22-23</ConnectedNoteIDs>
+            <String>Keeping track of progress</String>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="390.518555,342.307292" Width="80.0">
+        <Note ID="9" FontSize="12.0" Position="70.297218,362.501846" Width="105.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Inspect Items</String>
-            <ConnectedNoteIDs>2-6</ConnectedNoteIDs>
+            <String>navigation system</String>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="366.183594,134.171875" Width="200.0">
+        <Note ID="10" FontSize="12.0" Position="112.4105,396.02919" Width="68.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>System —&gt; PlayerChatacterCustomization</String>
+            <String>main menu</String>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="657.215402,55.780134" Width="125.0">
+        <Note ID="11" FontSize="12.0" Position="112.4105,424.02919" Width="74.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Usecase Breakdowns</String>
+            <String>game config</String>
         </Note>
-        <Note ID="11" FontSize="16.164216" Position="660.68192,87.09933" Width="86.0">
+        <Note ID="12" FontSize="12.0" Position="112.4105,452.02919" Width="102.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Equip Item</String>
+            <String>PC customization</String>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="662.0,129.0" Width="127.0">
+        <Note ID="13" FontSize="12.0" Position="112.4105,480.02919" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Goal Level: Sea-Level</String>
+            <String>Cycle</String>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="657.729422,237.421108" Width="20.0">
+        <Note ID="15" FontSize="12.0" Position="381.143716,411.591389" Width="131.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>A</String>
+            <String>Inventory Management</String>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="965.421875,240.012277" Width="20.0">
+        <Note ID="16" FontSize="12.0" Position="380.753091,439.126545" Width="151.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>B</String>
+            <String>Achievement Management</String>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="478.618327,230.966146" Width="63.0">
+        <Note ID="18" FontSize="13.715686" Position="73.734718,162.513565" Width="70.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Sort Items</String>
-            <ConnectedNoteIDs>7</ConnectedNoteIDs>
+            <String>The game</String>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="476.425293,260.817871" Width="68.0">
+        <Note ID="20" FontSize="12.0" Position="681.038462,157.52112" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Align Items</String>
-            <ConnectedNoteIDs>7</ConnectedNoteIDs>
+            <String>the tools</String>
         </Note>
-        <Note ID="31" FontSize="12.0" Position="995.053571,61.014509" Width="74.0">
+        <Note ID="21" FontSize="12.0" Position="746.836195,419.509615" Width="40.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>precondition</String>
+            <String>UMLs</String>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="995.053571,89.014509" Width="200.0">
+        <Note ID="22" FontSize="12.0" Position="746.836195,447.509615" Width="36.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>SGM holds references to the active slot groups that corresponds to the equipment inventories.</String>
+            <String>Docs</String>
         </Note>
-        <Note ID="33" FontSize="12.0" Position="995.053571,145.014509" Width="79.0">
+        <Note ID="23" FontSize="12.0" Position="746.836195,475.509615" Width="24.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>postcondition</String>
+            <String>Git</String>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="995.053571,173.014509" Width="148.0">
+        <Note ID="24" FontSize="12.0" Position="709.678571,205.599931" Width="127.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>the database is up-to-date</String>
+            <String>Editor Tools, Unity API</String>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="663.826753,283.741746" Width="37.0">
+        <Note ID="25" FontSize="12.0" Position="741.591003,240.554258" Width="113.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>steps</String>
+            <String>InventoryItemEditor</String>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="698.699149,365.137579" Width="200.0">
+        <Note ID="26" FontSize="12.0" Position="741.591003,268.554258" Width="109.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>1. Player browses and chooses the item to equip and picks it up</String>
+            <String>AchievementEditor</String>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="698.699149,407.137579" Width="200.0">
+        <Note ID="27" FontSize="12.0" Position="741.678571,296.599931" Width="69.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>2 .Player drags the slottable around the canvas to decide where to land</String>
+            <String>LevelEditor</String>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="698.699149,491.137579" Width="190.0">
+        <Note ID="28" FontSize="12.0" Position="721.533997,387.325378" Width="97.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>4. The system indicates the action</String>
+            <String>Software Design</String>
         </Note>
-        <Note ID="41" FontSize="12.0" Position="698.699149,519.137579" Width="200.0">
+        <Note ID="29" FontSize="12.0" Position="903.678571,202.599931" Width="24.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>5. Player drops (releases the slottable) to confirm the action. </String>
+            <String>Art</String>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="698.699149,449.137579" Width="200.0">
+        <Note ID="30" FontSize="12.0" Position="917.131525,231.913462" Width="103.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>3. The system computes consequent action</String>
+            <String>3D Modelling App</String>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="698.699149,561.137579" Width="200.0">
+        <Note ID="31" FontSize="12.0" Position="916.678571,259.599931" Width="121.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>6. The system performs the action procedurally</String>
+            <String>2D ImageEditing App</String>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="679.152158,627.845889" Width="67.0">
+        <Note ID="32" FontSize="12.0" Position="900.678571,353.599931" Width="40.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Extensions</String>
+            <String>Music</String>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="700.337054,656.780134" Width="200.0">
+        <Note ID="35" FontSize="12.0" Position="741.678571,324.599931" Width="77.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>0a: The item is not of EquippableGear</String>
+            <String>EnemyEditor</String>
         </Note>
-        <Note ID="47" FontSize="12.0" Position="726.12872,699.301618" Width="200.0">
+        <Note ID="36" FontSize="12.0" Position="75.554945,605.916724" Width="74.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>.1: the item is deemed not selectable and greyed out.</String>
+            <String>UI and Input</String>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="698.677014,322.951381" Width="200.0">
+        <Note ID="37" FontSize="12.0" Position="119.554945,648.916724" Width="55.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>0. The system filters out the selectable slottables</String>
+            <String>UnityAPI</String>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="700.539091,768.900181" Width="200.0">
+        <Note ID="38" FontSize="12.0" Position="133.437157,682.909169" Width="73.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>3a: Consequent action depends upon the status of slottables and SGs.</String>
+            <String>UnityEvents</String>
+            <ConnectedNoteIDs>40</ConnectedNoteIDs>
         </Note>
-        <Note ID="50" FontSize="12.0" Position="726.27846,741.424665" Width="69.0">
+        <Note ID="39" FontSize="12.0" Position="133.437157,710.909169" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>returns to 1</String>
+            <String>nGUI System</String>
+            <ConnectedNoteIDs>41-43</ConnectedNoteIDs>
         </Note>
-        <Note ID="51" FontSize="12.0" Position="972.96875,288.151786" Width="37.0">
+        <Note ID="40" FontSize="12.0" Position="244.875343,645.721326" Width="125.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>steps</String>
+            <String>the one that is assigned in the inspector</String>
+            <ConnectedNoteIDs>38</ConnectedNoteIDs>
         </Note>
-        <Note ID="52" FontSize="12.0" Position="1012.448011,327.920962" Width="200.0">
+        <Note ID="41" FontSize="12.0" Position="259.832418,716.014251" Width="121.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>1. The system filters out the selectable slottables</String>
+            <String>sprite-based new GUI system</String>
+            <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="53" FontSize="12.0" Position="1011.96875,370.151786" Width="200.0">
+        <Note ID="42" FontSize="12.0" Position="203.554945,772.916724" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>2. Player browses and taps on a slottable.</String>
+            <String>EventSystem</String>
+            <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="1011.96875,412.151786" Width="200.0">
+        <Note ID="43" FontSize="12.0" Position="203.554945,800.916724" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>3. System presents an inspector windowlet to the player</String>
+            <String>InputModule</String>
+            <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="55" FontSize="12.0" Position="1011.96875,454.151786" Width="200.0">
+        <Note ID="44" FontSize="12.0" Position="113.455872,855.895089" Width="106.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>4. Player taps on Equip button to confirm the command</String>
+            <String>Custom Extension</String>
         </Note>
-        <Note ID="56" FontSize="12.0" Position="1011.96875,496.151786" Width="200.0">
+        <Note ID="45" FontSize="12.0" Position="160.554945,881.916724" Width="99.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>5. The system performs an appropriate series of actions to actualize the command</String>
+            <String>Slottable System</String>
         </Note>
-        <Note ID="57" FontSize="12.0" Position="982.96875,621.151786" Width="66.0">
+        <Note ID="46" FontSize="12.0" Position="160.554945,909.916724" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>extensions</String>
+            <String>Axis Scrollers</String>
         </Note>
-        <Note ID="58" FontSize="12.0" Position="1017.089347,658.641843" Width="200.0">
+        <Note ID="49" FontSize="12.0" Position="318.701923,972.151099" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>1a: The slottable represents inventory item of non-Equippable type</String>
+            <String>Need to decouple this from the InventorySystem</String>
+            <ConnectedNoteIDs>47</ConnectedNoteIDs>
         </Note>
-        <Note ID="59" FontSize="12.0" Position="1039.312358,715.087155" Width="200.0">
+        <Note ID="50" FontSize="12.0" Position="484.887153,812.184896" Width="67.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>.1: the slottable is not equippable, so Equip button on the inspector is disabled.</String>
+            <String>UnityEvent</String>
+            <ConnectedNoteIDs>47</ConnectedNoteIDs>
         </Note>
-        <Note ID="60" FontSize="12.0" Position="1018.875568,775.545252" Width="200.0">
+        <Note ID="51" FontSize="12.0" Position="76.0,1025.0" Width="73.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>2a: the tapped slottable represents an already equipped item</String>
+            <String>Slot System</String>
         </Note>
-        <Note ID="61" FontSize="12.0" Position="1043.815199,814.902496" Width="200.0">
+        <Note ID="52" FontSize="12.0" Position="101.0,1053.0" Width="55.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>.1: Equip button on the inspector is substituted with Unequip button, if the SG isSubtractable == true</String>
+            <String>Slottable</String>
         </Note>
-        <Note ID="62" FontSize="12.0" Position="1043.25558,877.225446" Width="200.0">
+        <Note ID="53" FontSize="12.0" Position="101.0,1081.0" Width="66.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>.2: Equip button is disabled and not shown otherwise</String>
+            <String>Slot Group</String>
         </Note>
-        <Note ID="66" FontSize="12.0" Position="711.285714,285.386161" Width="134.0">
+        <Note ID="54" FontSize="12.0" Position="101.0,1109.0" Width="117.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Main Success Scenario</String>
+            <String>Slot Group Manager</String>
         </Note>
-        <Note ID="67" FontSize="12.0" Position="1022.212054,290.342634" Width="134.0">
+        <Note ID="56" FontSize="12.0" Position="319.0,1014.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Main Success Scenario</String>
+            <String>Leave all the intrinsic behaviour within the slottable, and chisel out all the non-generic behaviour out of the box and let outsider class implement that.
+Call those extrinsic method thru UnityEvent System, using them as an only port</String>
         </Note>
-        <Note ID="69" FontSize="12.0" Position="228.0,485.0" Width="71.0">
+        <Note ID="57" FontSize="12.0" Position="524.315304,872.994391" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>SGM states</String>
-        </Note>
-        <Note ID="70" FontSize="12.0" Position="256.0,532.0" Width="102.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>WaitingForPickup</String>
-        </Note>
-        <Note ID="71" FontSize="12.0" Position="256.0,560.0" Width="50.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>Probing</String>
-        </Note>
-        <Note ID="72" FontSize="12.0" Position="256.0,588.0" Width="57.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>Updating</String>
-        </Note>
-        <Note ID="73" FontSize="12.0" Position="414.0,482.0" Width="91.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>Slottable states</String>
-        </Note>
-        <Note ID="74" FontSize="12.0" Position="431.0,523.0" Width="102.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>WaitingForPickup</String>
-        </Note>
-        <Note ID="75" FontSize="12.0" Position="431.0,551.0" Width="69.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>isPickedUp</String>
-        </Note>
-        <Note ID="76" FontSize="12.0" Position="431.0,579.0" Width="94.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>isBeingDragged</String>
-        </Note>
-        <Note ID="77" FontSize="12.0" Position="431.0,607.0" Width="63.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>isHovered</String>
-        </Note>
-        <Note ID="78" FontSize="12.0" Position="431.0,635.0" Width="56.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>isMoving</String>
-        </Note>
-        <Note ID="79" FontSize="12.0" Position="230.0,646.0" Width="61.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>SG states</String>
-        </Note>
-        <Note ID="80" FontSize="12.0" Position="259.0,687.0" Width="63.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>isHovered</String>
-        </Note>
-        <Note ID="81" FontSize="12.0" Position="259.0,715.0" Width="65.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>isUpdating</String>
+            <String>* Use State design pattern, instead of lengthy if statement or switch.
+Never use switch.</String>
         </Note>
     </Notes>
     <BackgroundShapes>
-        <Shape ID="68" Sticky="Yes" Position="641.581473,29.44308" Width="624.0" Height="920.0">
+        <Shape ID="19" Sticky="Yes" Position="49.489698,136.583448" Width="566.0" Height="400.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="8" Sticky="Yes" Position="418.734718,152.513565" Width="186.0" Height="137.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <ConnectedNoteIDs>1</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="14" Sticky="Yes" Position="60.4105,347.02919" Width="164.0" Height="172.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="17" Sticky="Yes" Position="370.753091,396.126545" Width="171.0" Height="82.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <ConnectedNoteIDs>2, 19</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="34" Sticky="Yes" Position="669.810955,141.12603" Width="379.0" Height="374.0">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
         </Shape>
-        <Shape ID="65" Sticky="Yes" Position="984.053571,45.014509" Width="222.0" Height="168.0">
+        <Shape ID="47" Sticky="Yes" Position="64.554945,589.916724" Width="327.0" Height="360.0">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
+            <ConnectedNoteIDs>49-50</ConnectedNoteIDs>
         </Shape>
-        <Shape ID="63" Sticky="Yes" Position="652.581473,267.44308" Width="285.0" Height="569.0">
-            <Appearance>
-                <Border Weight="1" Style="Square"></Border>
-            </Appearance>
-        </Shape>
-        <Shape ID="64" Sticky="Yes" Position="961.96875,272.151786" Width="293.0" Height="659.0">
+        <Shape ID="55" Sticky="Yes" Position="65.0,1009.0" Width="164.0" Height="140.0">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
         </Shape>
     </BackgroundShapes>
     <Stacks>
-        <Stack>2-6</Stack>
-        <Stack>31-34</Stack>
-        <Stack>36-37, 42, 38, 41, 43</Stack>
-        <Stack>47, 50</Stack>
-        <Stack>52-56</Stack>
-        <Stack>70-72</Stack>
-        <Stack>74-78</Stack>
-        <Stack>80-81</Stack>
+        <Stack>1-3</Stack>
+        <Stack>5-7</Stack>
+        <Stack>10-13</Stack>
+        <Stack>15-16</Stack>
+        <Stack>21-23</Stack>
+        <Stack>25-27, 35</Stack>
+        <Stack>30-31</Stack>
+        <Stack>38-39</Stack>
+        <Stack>42-43</Stack>
+        <Stack>45-46</Stack>
+        <Stack>49, 56</Stack>
+        <Stack>52-54</Stack>
     </Stacks>
-    <AutoFit>0-8, 10-12, 15, 17, 22-23, 31, 33-35, 38, 45, 50-51, 57, 64-81</AutoFit>
+    <AutoFit>0-7, 9-13, 15-16, 18, 20-32, 34-39, 42-47, 50-55</AutoFit>
     <NoteStyles>
-        <Style Name="Title Text" ID="362046EC-BF5A-4E06-9C6A-F90E2DBA9322" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+        <Style Name="Title Text" ID="24A8BB77-C271-4078-91E4-945D26FE42FF" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
             <FontSize>28.0</FontSize>
             <IsBold>Yes</IsBold>
         </Style>
-        <Style Name="Red Text" ID="09A0B4FD-75DA-493C-938F-2FE295D3D7F2" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+        <Style Name="Red Text" ID="2AA79E4D-FA6C-4B6F-9468-7F89E7A77DEF" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
             <TextColor>1.0 0.0 0.0</TextColor>
         </Style>
-        <Style Name="Brown Bubble" ID="33610878-7247-4867-978D-F1BDB9508116" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+        <Style Name="Brown Bubble" ID="64D73DDB-7DE7-4311-90DD-07695415EB13" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
             <BorderColor>0.290055 0.1523 0.182215</BorderColor>
             <FillColor>0.940019 0.892907 0.779716</FillColor>
         </Style>
-        <Style Name="Yellow Bubble" ID="6B6867BF-13B9-4BAF-9CC1-3E3A9106D4C4" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+        <Style Name="Yellow Bubble" ID="B2712FD0-58A7-40B3-BF14-36480DC24453" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
             <BorderColor>0.756763 0.785592 0.373258</BorderColor>
             <FillColor>0.906773 0.910625 0.634363</FillColor>
         </Style>
-        <Style Name="Green Bubble" ID="7B916BD2-3E67-492B-9646-27AA5831E43A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+        <Style Name="Green Bubble" ID="2A9AF361-0B40-43DB-9F18-28FEAA202E1A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
             <BorderColor>0.331867 0.609932 0.356197</BorderColor>
             <FillColor>0.790123 0.882328 0.80198</FillColor>
         </Style>
-        <Style Name="Blue Bubble" ID="684AE962-D834-4576-BF93-BF1DD6BCBD6F" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+        <Style Name="Blue Bubble" ID="BD8B2DA7-1487-4FD9-AEB8-F45EEB48A2C9" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
             <BorderColor>0.477193 0.557066 0.76433</BorderColor>
             <FillColor>0.840969 0.866828 0.925903</FillColor>
         </Style>
-        <Style Name="Pink Bubble" ID="68508B8F-EE18-428C-BE64-814B8A2A0BED" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+        <Style Name="Pink Bubble" ID="C5400502-3824-4AD0-86AF-3F60E2B197FE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
             <BorderColor>0.747881 0.366532 0.542813</BorderColor>
             <FillColor>0.918452 0.807302 0.863467</FillColor>
