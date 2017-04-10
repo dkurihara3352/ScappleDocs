@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="3E4490B4-34A4-4C8C-ADE2-42ECD9DEDD8D">
+    <Notes>
+        <Note ID="73" FontSize="19.764706" Position="296.87376,145.831101" Width="162.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>General Features</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,16</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="74" FontSize="14.764706" Position="294.094418,341.923916" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Axis Scroller</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="75" FontSize="14.764706" Position="294.455841,569.435489" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Slot System</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="76" FontSize="14.764706" Position="824.417438,342.264895" Width="54.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Popup</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,5</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="77" FontSize="14.764706" Position="560.986245,341.768468" Width="152.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Touch Control Panel</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="323.094418,378.923916" Width="126.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Organize UI Elements</String>
+            <ConnectedNoteIDs>110</ConnectedNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="323.277778,406.831101" Width="89.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>scroll elements</String>
+        </Note>
+        <Note ID="81" FontSize="12.0" Position="323.094418,434.923916" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Search recttrans and automatically focus on it</String>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="323.094418,476.923916" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>smoothly switch between horizontal and vertical scroller</String>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="301.587793,200.369957" Width="131.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>common collaborator</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="319.974359,226.466613" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>InputModule</String>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="319.974359,254.466613" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>EventSystem</String>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="319.972321,282.123769" Width="70.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Unity Event</String>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="592.277778,373.831101" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>convert raw input into processed input for complex player control</String>
+            <ConnectedNoteIDs>111-112</ConnectedNoteIDs>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="850.330231,378.206001" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Access subgroup of UI elements quickly and intuitively</String>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="850.378709,420.070851" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Organize stack of UI elements layers</String>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="850.378709,462.070851" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Access subgroup of UI elements contextually</String>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="331.277778,615.0" Width="191.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Organize a group of small elments</String>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="331.277778,643.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Move elements within a group and between multiple groups</String>
+        </Note>
+        <Note ID="94" FontSize="12.0" Position="331.277778,685.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>facilitate interaction between elements</String>
+        </Note>
+        <Note ID="108" FontSize="12.0" Position="850.378709,504.070851" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Isolate manipulatable panel of elements from context</String>
+        </Note>
+        <Note ID="110" FontSize="12.0" Position="400.852208,319.582057" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>collaborate with built-in Layout Group component</String>
+            <ConnectedNoteIDs>79</ConnectedNoteIDs>
+        </Note>
+        <Note ID="111" FontSize="12.0" Position="559.53373,449.640625" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Can be used to build virtual joysticks</String>
+            <ConnectedNoteIDs>87</ConnectedNoteIDs>
+        </Note>
+        <Note ID="112" FontSize="12.0" Position="700.233879,455.072173" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Put multiple instance of this UI element to enable complex input panel</String>
+            <ConnectedNoteIDs>87</ConnectedNoteIDs>
+        </Note>
+        <Note ID="114" FontSize="12.0" Position="330.87376,726.831101" Width="186.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Delete element out of a collection</String>
+        </Note>
+        <Note ID="115" FontSize="12.0" Position="481.87376,192.831101" Width="145.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Occational Collaborator</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,23</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="116" FontSize="12.0" Position="481.87376,220.831101" Width="101.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Inventory System</String>
+        </Note>
+        <Note ID="117" FontSize="19.764706" Position="1181.0,146.0" Width="232.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Usecases — Overview</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,8</FormatRange>
+                <FormatRange Underline="Yes">8,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="118" FontSize="14.764706" Position="1189.929717,207.246807" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Axis Scroller</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="119" FontSize="14.764706" Position="1447.125939,520.186629" Width="152.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Touch Control Panel</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="120" FontSize="14.764706" Position="1443.773935,213.366223" Width="54.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Popup</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,5</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="121" FontSize="14.764706" Position="1698.277777,207.041428" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Slot System</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="124" FontSize="12.0" Position="1188.700337,254.693401" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Inventory Manager uses to house Slottables that represents Inventory Items</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,17</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="125" FontSize="12.0" Position="1188.768428,367.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Slot Group uses to focus destination Sb when dropping a slottable on the Pool Inventory</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,10</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="126" FontSize="12.0" Position="1188.768428,423.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Navigator uses to organize the widgets</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="127" FontSize="12.0" Position="1188.768428,465.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Navigator uses to traverse from a widget to another</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="128" FontSize="12.0" Position="1188.768428,507.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Navigator uses to jump to a particular destination widget</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="129" FontSize="12.0" Position="1188.768428,549.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Achievement Manager uses to accomodate a collection of achievement panels</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="130" FontSize="12.0" Position="1188.768428,605.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Core Gameplay uses to display and select consumable item/ special arrow that is currently deployable</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="132" FontSize="12.0" Position="1447.578808,558.152562" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Core Gameplay uses to convert raw input into various commands for PC control</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="134" FontSize="12.0" Position="1443.768428,244.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player uses to access Inventory item inspector popup window</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="136" FontSize="12.0" Position="1443.768428,286.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player uses to access Gameplay Configuration menu (option menu) while in gameplay cycle</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="137" FontSize="12.0" Position="1443.768428,342.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>various systems use to get confirmation from Player before proceeding to perform certain commands</String>
+            <Formatting>
+                <FormatRange Bold="Yes">45,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="138" FontSize="12.0" Position="1443.768428,412.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Tutorial Manager? uses to show steps to be taken when the app is launched first time</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="139" FontSize="12.0" Position="1188.768428,311.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Inventory Manager uses to switch various context editors within Inspector window</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,17</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="141" FontSize="12.0" Position="1698.768428,238.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player uses to manage Inventory with Inventory System</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="142" FontSize="12.0" Position="1698.768428,280.061663" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player uses to use items in core gameplay</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+    </Notes>
+    <BackgroundShapes>
+        <Shape ID="105" Sticky="Yes" Position="261.277778,130.0" Width="857.0" Height="729.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="104" Sticky="Yes" Position="272.277778,309.0" Width="835.0" Height="532.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="99" Sticky="Yes" Position="283.277778,325.831101" Width="251.0" Height="205.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="103" Sticky="Yes" Position="283.277778,553.0" Width="259.0" Height="270.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="102" Sticky="Yes" Position="813.616082,325.901952" Width="248.0" Height="232.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="101" Sticky="Yes" Position="550.277778,325.831101" Width="253.0" Height="102.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="144" Sticky="Yes" Position="1166.768428,130.061663" Width="754.0" Height="575.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="131" Sticky="Yes" Position="1177.700337,191.693401" Width="222.0" Height="495.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="133" Sticky="Yes" Position="1436.125939,504.355815" Width="222.0" Height="122.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="140" Sticky="Yes" Position="1432.768428,197.061663" Width="222.0" Height="283.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="143" Sticky="Yes" Position="1687.768428,191.061663" Width="222.0" Height="143.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+    </BackgroundShapes>
+    <Stacks>
+        <Stack>79-82</Stack>
+        <Stack>84-86</Stack>
+        <Stack>88-90, 108</Stack>
+        <Stack>92-94, 114</Stack>
+        <Stack>115-116</Stack>
+        <Stack>120, 134, 136-138</Stack>
+        <Stack>124, 139, 125-130</Stack>
+        <Stack>141-142</Stack>
+    </Stacks>
+    <AutoFit>73-77, 79-80, 83-86, 92, 101-102, 105, 114-116, 118-121, 140, 144</AutoFit>
+    <NoteStyles>
+        <Style Name="Components" ID="1D7FC7AF-4223-456F-B330-4B4541C0687F" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>13.512255</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.489806 0.635953 0.656368</BorderColor>
+            <FillColor>0.790725 0.910295 0.926541</FillColor>
+            <Size>85.0,150.0</Size>
+        </Style>
+        <Style Name="Core Components" ID="E43F47AD-5C03-429B-960B-7BADC5CE300D" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>14.889706</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.357439 0.431322 0.864131</BorderColor>
+            <FillColor>0.774815 0.812333 0.999383</FillColor>
+            <Size>113.0,150.0</Size>
+        </Style>
+        <Style Name="Header" ID="3D333C9C-D908-4A25-816A-4BBD1C946BBD" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>19.764706</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>0</BorderThickness>
+            <BorderColor>0.700721 0.700721 0.700721</BorderColor>
+            <Size>83.0,150.0</Size>
+            <IsUnderlined>Yes</IsUnderlined>
+        </Style>
+        <Style Name="Note" ID="EDDE75F6-143B-4405-9E3B-4379EB048C8E" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.875267 0.561729 0.57507</BorderColor>
+            <FillColor>0.995971 0.824352 0.831289</FillColor>
+            <Size>200.0,150.0</Size>
+        </Style>
+        <Style Name="Subheader" ID="C6AF9243-E17B-46C3-995E-88C4731C89AA" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>14.764706</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>0</BorderThickness>
+            <BorderColor>0.700721 0.700721 0.700721</BorderColor>
+            <Size>71.0,150.0</Size>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="527C38A5-B52D-432D-9555-04B5D2C75CD7">
+    <Notes>
+        <Note ID="0" FontSize="16.0" Position="172.0,56.0" Width="170.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Delete Item from a collection</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,29</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="172.0,108.0" Width="129.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Goal Level : Sea Level</String>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="172.0,278.253906" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player chooses a slottable by picking it up</String>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="172.0,180.421875" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Widget focuses and initializes the UI system</String>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="172.0,222.253906" Width="197.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>SGM initializes all the SGs and Sbs</String>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="172.0,250.253906" Width="185.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>SGM filters all the selectable Sbs</String>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="172.0,377.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player drags the icon out of the original SG</String>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="172.0,419.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player drags the icon onto a DropZone of SG that represents the dump</String>
+            <ConnectedNoteIDs>10</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="377.847656,73.332031" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Or, Use a consumable item out of runtime inventory</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="412.089844,407.625" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>SG may have NO slot, just only DropZone</String>
+            <ConnectedNoteIDs>8</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="172.0,475.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>SGM computes the consequent action</String>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="172.0,517.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>SGM tells the draggedIcon to indicate the action</String>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="172.0,320.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>The Sb gets picked up, creates a dragged icon, updates the left Sb’s look</String>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="172.0,559.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Player release the finger to drop the icon to confirm dump/use action</String>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="172.0,601.0" Width="139.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>SG update the database</String>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="172.0,629.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>the Sb gets removed if the quantity gets below or equal to zero</String>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <Stacks>
+        <Stack>0-1</Stack>
+        <Stack>2, 13, 7-8, 11-12, 14-16</Stack>
+        <Stack>4-6</Stack>
+    </Stacks>
+    <AutoFit>1, 5-6, 15</AutoFit>
+    <NoteStyles>
+        <Style Name="Components" ID="047006C4-AF5F-46BD-9791-C80AFDE7FD79" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>13.512255</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.489806 0.635953 0.656368</BorderColor>
+            <FillColor>0.790725 0.910295 0.926541</FillColor>
+            <Size>85.0,150.0</Size>
+        </Style>
+        <Style Name="Core Components" ID="A8EEE98F-B2EC-4BB9-A5F8-5C5B175240B6" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>14.889706</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.357439 0.431322 0.864131</BorderColor>
+            <FillColor>0.774815 0.812333 0.999383</FillColor>
+            <Size>113.0,150.0</Size>
+        </Style>
+        <Style Name="Header" ID="5E41333B-3E55-4B8F-87A9-15C839FD7E23" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>19.764706</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>0</BorderThickness>
+            <BorderColor>0.700721 0.700721 0.700721</BorderColor>
+            <Size>83.0,150.0</Size>
+            <IsUnderlined>Yes</IsUnderlined>
+        </Style>
+        <Style Name="Note" ID="E860D115-B1CD-497E-9828-EE60EFD792C5" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.875267 0.561729 0.57507</BorderColor>
+            <FillColor>0.995971 0.824352 0.831289</FillColor>
+            <Size>200.0,150.0</Size>
+        </Style>
+        <Style Name="Subheader" ID="D389EAA7-15EB-4352-A859-7D2E8D6DE845" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>16.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>0</BorderThickness>
+            <BorderColor>0.700721 0.700721 0.700721</BorderColor>
+            <Size>226.0,150.0</Size>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

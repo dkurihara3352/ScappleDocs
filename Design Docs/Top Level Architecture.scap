@@ -1,146 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.1" ID="57034EB2-A1E8-4DE0-ADCA-4D2A29C6CE2F">
     <Notes>
-        <Note ID="0" FontSize="20.404412" Position="40.417239,70.068853" Width="209.0">
+        <Note ID="0" FontSize="19.764706" Position="167.288116,378.525214" Width="203.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border>0.700721 0.700721 0.700721</Border>
             </Appearance>
             <String>Top Level Architecture</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,22</FormatRange>
+            </Formatting>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="211.734718,214.513565" Width="93.0">
+        <Note ID="1" FontSize="14.889706" Position="253.695929,513.377878" Width="113.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.357439 0.431322 0.864131</Border>
+                <Fill>0.774815 0.812333 0.999383</Fill>
             </Appearance>
             <String>Core Gameplay</String>
             <ConnectedNoteIDs>8</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="211.734718,242.513565" Width="124.0">
+        <Note ID="2" FontSize="14.889706" Position="396.865954,659.241351" Width="143.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.357439 0.431322 0.864131</Border>
+                <Fill>0.774815 0.812333 0.999383</Fill>
             </Appearance>
-            <String>Supportive Gameplay</String>
+            <String>Player Configuration</String>
             <ConnectedNoteIDs>17</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="211.734718,270.513565" Width="47.0">
+        <Note ID="3" FontSize="14.889706" Position="166.636924,562.642461" Width="96.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.357439 0.431322 0.864131</Border>
+                <Fill>0.774815 0.812333 0.999383</Fill>
             </Appearance>
-            <String>Utilities</String>
+            <String>Infrastructure</String>
             <ConnectedNoteIDs>14</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="428.734718,167.513565" Width="91.0">
+        <Note ID="7" FontSize="13.512255" Position="547.326674,595.931401" Width="87.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
             </Appearance>
-            <String>gameplay cycle</String>
+            <String>Stat Tracking</String>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="449.430031,194.915908" Width="53.0">
+        <Note ID="9" FontSize="13.512255" Position="232.826686,720.627878" Width="121.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
             </Appearance>
-            <String>Running</String>
+            <String>Navigation System</String>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="449.430031,222.915908" Width="56.0">
+        <Note ID="11" FontSize="13.512255" Position="184.425609,649.684029" Width="88.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
             </Appearance>
-            <String>Shooting</String>
+            <String>Game Config</String>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="449.430031,250.915908" Width="145.0">
+        <Note ID="15" FontSize="13.512255" Position="431.0,760.0" Width="147.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>Keeping track of progress</String>
-        </Note>
-        <Note ID="9" FontSize="12.0" Position="70.297218,362.501846" Width="105.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>navigation system</String>
-        </Note>
-        <Note ID="10" FontSize="12.0" Position="112.4105,396.02919" Width="68.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>main menu</String>
-        </Note>
-        <Note ID="11" FontSize="12.0" Position="112.4105,424.02919" Width="74.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>game config</String>
-        </Note>
-        <Note ID="12" FontSize="12.0" Position="112.4105,452.02919" Width="102.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>PC customization</String>
-        </Note>
-        <Note ID="13" FontSize="12.0" Position="112.4105,480.02919" Width="39.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>Cycle</String>
-        </Note>
-        <Note ID="15" FontSize="12.0" Position="381.143716,411.591389" Width="131.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
             </Appearance>
             <String>Inventory Management</String>
+            <ConnectedNoteIDs>112</ConnectedNoteIDs>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="380.753091,439.126545" Width="151.0">
+        <Note ID="16" FontSize="13.512255" Position="431.0,730.0" Width="169.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
             </Appearance>
             <String>Achievement Management</String>
         </Note>
-        <Note ID="18" FontSize="13.715686" Position="73.734718,162.513565" Width="70.0">
+        <Note ID="18" FontSize="19.764706" Position="123.92858,480.997049" Width="97.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border>0.700721 0.700721 0.700721</Border>
             </Appearance>
             <String>The game</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,8</FormatRange>
+            </Formatting>
         </Note>
-        <Note ID="20" FontSize="12.0" Position="681.038462,157.52112" Width="54.0">
+        <Note ID="20" FontSize="19.764706" Position="807.909338,465.97748" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border>0.700721 0.700721 0.700721</Border>
             </Appearance>
             <String>the tools</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,9</FormatRange>
+            </Formatting>
         </Note>
-        <Note ID="21" FontSize="12.0" Position="746.836195,419.509615" Width="40.0">
+        <Note ID="21" FontSize="12.0" Position="873.707072,727.965976" Width="40.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -148,7 +107,7 @@
             </Appearance>
             <String>UMLs</String>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="746.836195,447.509615" Width="36.0">
+        <Note ID="22" FontSize="12.0" Position="873.707072,755.965976" Width="36.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -156,7 +115,7 @@
             </Appearance>
             <String>Docs</String>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="746.836195,475.509615" Width="24.0">
+        <Note ID="23" FontSize="12.0" Position="873.707072,783.965976" Width="24.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -164,7 +123,7 @@
             </Appearance>
             <String>Git</String>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="709.678571,205.599931" Width="127.0">
+        <Note ID="24" FontSize="12.0" Position="836.549448,514.056292" Width="127.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -172,7 +131,7 @@
             </Appearance>
             <String>Editor Tools, Unity API</String>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="741.591003,240.554258" Width="113.0">
+        <Note ID="25" FontSize="12.0" Position="868.461879,549.010619" Width="113.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -180,7 +139,7 @@
             </Appearance>
             <String>InventoryItemEditor</String>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="741.591003,268.554258" Width="109.0">
+        <Note ID="26" FontSize="12.0" Position="868.461879,577.010619" Width="109.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -188,7 +147,7 @@
             </Appearance>
             <String>AchievementEditor</String>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="741.678571,296.599931" Width="69.0">
+        <Note ID="27" FontSize="12.0" Position="868.549448,605.056292" Width="69.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -196,7 +155,7 @@
             </Appearance>
             <String>LevelEditor</String>
         </Note>
-        <Note ID="28" FontSize="12.0" Position="721.533997,387.325378" Width="97.0">
+        <Note ID="28" FontSize="12.0" Position="848.404874,695.781738" Width="97.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -204,7 +163,7 @@
             </Appearance>
             <String>Software Design</String>
         </Note>
-        <Note ID="29" FontSize="12.0" Position="903.678571,202.599931" Width="24.0">
+        <Note ID="29" FontSize="12.0" Position="1030.549448,511.056292" Width="24.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -212,7 +171,7 @@
             </Appearance>
             <String>Art</String>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="917.131525,231.913462" Width="103.0">
+        <Note ID="30" FontSize="12.0" Position="1044.002401,540.369822" Width="103.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -220,7 +179,7 @@
             </Appearance>
             <String>3D Modelling App</String>
         </Note>
-        <Note ID="31" FontSize="12.0" Position="916.678571,259.599931" Width="121.0">
+        <Note ID="31" FontSize="12.0" Position="1043.549448,568.056292" Width="121.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -228,7 +187,7 @@
             </Appearance>
             <String>2D ImageEditing App</String>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="900.678571,353.599931" Width="40.0">
+        <Note ID="32" FontSize="12.0" Position="1027.549448,662.056292" Width="40.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -236,7 +195,7 @@
             </Appearance>
             <String>Music</String>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="741.678571,324.599931" Width="77.0">
+        <Note ID="35" FontSize="12.0" Position="868.549448,633.056292" Width="77.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -244,23 +203,17 @@
             </Appearance>
             <String>EnemyEditor</String>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="75.554945,605.916724" Width="74.0">
+        <Note ID="37" FontSize="16.0" Position="170.210535,934.1577" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
-            </Appearance>
-            <String>UI and Input</String>
-        </Note>
-        <Note ID="37" FontSize="12.0" Position="119.554945,648.916724" Width="55.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border>0.700721 0.700721 0.700721</Border>
             </Appearance>
             <String>UnityAPI</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,8</FormatRange>
+            </Formatting>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="133.437157,682.909169" Width="73.0">
+        <Note ID="38" FontSize="12.0" Position="184.092746,968.150145" Width="73.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -269,7 +222,7 @@
             <String>UnityEvents</String>
             <ConnectedNoteIDs>40</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="133.437157,710.909169" Width="80.0">
+        <Note ID="39" FontSize="12.0" Position="184.092746,996.150145" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -278,25 +231,25 @@
             <String>nGUI System</String>
             <ConnectedNoteIDs>41-43</ConnectedNoteIDs>
         </Note>
-        <Note ID="40" FontSize="12.0" Position="244.875343,645.721326" Width="125.0">
+        <Note ID="40" FontSize="12.0" Position="295.530933,930.962301" Width="125.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
             </Appearance>
             <String>the one that is assigned in the inspector</String>
             <ConnectedNoteIDs>38</ConnectedNoteIDs>
         </Note>
-        <Note ID="41" FontSize="12.0" Position="259.832418,716.014251" Width="121.0">
+        <Note ID="41" FontSize="12.0" Position="310.488007,1001.255227" Width="121.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
             </Appearance>
             <String>sprite-based new GUI system</String>
             <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="203.554945,772.916724" Width="79.0">
+        <Note ID="42" FontSize="12.0" Position="254.210535,1058.1577" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -305,7 +258,7 @@
             <String>EventSystem</String>
             <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="203.554945,800.916724" Width="75.0">
+        <Note ID="43" FontSize="12.0" Position="254.210535,1086.1577" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -314,23 +267,26 @@
             <String>InputModule</String>
             <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="113.455872,855.895089" Width="106.0">
+        <Note ID="44" FontSize="16.0" Position="146.582957,1127.561695" Width="149.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border>0.700721 0.700721 0.700721</Border>
             </Appearance>
             <String>Custom Extension</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+            </Formatting>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="160.554945,881.916724" Width="99.0">
+        <Note ID="45" FontSize="12.0" Position="211.650913,1167.396187" Width="73.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>Slottable System</String>
+            <String>Slot System</String>
+            <ConnectedNoteIDs>55</ConnectedNoteIDs>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="160.554945,909.916724" Width="81.0">
+        <Note ID="46" FontSize="12.0" Position="211.210535,1195.1577" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -338,16 +294,16 @@
             </Appearance>
             <String>Axis Scrollers</String>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="318.701923,972.151099" Width="200.0">
+        <Note ID="49" FontSize="12.0" Position="445.5728,1280.607459" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
             </Appearance>
             <String>Need to decouple this from the InventorySystem</String>
             <ConnectedNoteIDs>47</ConnectedNoteIDs>
         </Note>
-        <Note ID="50" FontSize="12.0" Position="484.887153,812.184896" Width="67.0">
+        <Note ID="50" FontSize="12.0" Position="513.993396,1102.45538" Width="67.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
@@ -356,146 +312,594 @@
             <String>UnityEvent</String>
             <ConnectedNoteIDs>47</ConnectedNoteIDs>
         </Note>
-        <Note ID="51" FontSize="12.0" Position="76.0,1025.0" Width="73.0">
+        <Note ID="51" FontSize="16.0" Position="525.134693,923.88411" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border>0.700721 0.700721 0.700721</Border>
             </Appearance>
             <String>Slot System</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
         </Note>
-        <Note ID="52" FontSize="12.0" Position="101.0,1053.0" Width="55.0">
+        <Note ID="52" FontSize="12.0" Position="537.872423,961.035599" Width="55.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
             </Appearance>
             <String>Slottable</String>
         </Note>
-        <Note ID="53" FontSize="12.0" Position="101.0,1081.0" Width="66.0">
+        <Note ID="53" FontSize="12.0" Position="537.872423,989.035599" Width="66.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
             </Appearance>
             <String>Slot Group</String>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="101.0,1109.0" Width="117.0">
+        <Note ID="54" FontSize="12.0" Position="537.872423,1017.035599" Width="117.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
             </Appearance>
             <String>Slot Group Manager</String>
         </Note>
-        <Note ID="56" FontSize="12.0" Position="319.0,1014.0" Width="200.0">
+        <Note ID="56" FontSize="12.0" Position="445.870877,1322.45636" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
-                <Border Weight="1">0.700721 0.700721 0.700721</Border>
-                <Fill>0.902657 0.902657 0.902657</Fill>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
             </Appearance>
             <String>Leave all the intrinsic behaviour within the slottable, and chisel out all the non-generic behaviour out of the box and let outsider class implement that.
 Call those extrinsic method thru UnityEvent System, using them as an only port</String>
         </Note>
-        <Note ID="57" FontSize="12.0" Position="524.315304,872.994391" Width="200.0">
+        <Note ID="57" FontSize="12.0" Position="651.186181,1181.450752" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>* Use State design pattern, instead of lengthy if statement or switch.
+Never use switch.</String>
+        </Note>
+        <Note ID="59" FontSize="13.512255" Position="419.873387,521.707442" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>PC Control</String>
+        </Note>
+        <Note ID="60" FontSize="13.512255" Position="516.870457,519.482833" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>Enemy Management</String>
+        </Note>
+        <Note ID="61" FontSize="13.512255" Position="414.575535,588.28687" Width="123.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>Level Management</String>
+        </Note>
+        <Note ID="62" FontSize="13.512255" Position="128.683422,713.902128" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>UI System</String>
+            <ConnectedNoteIDs>47</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="13.512255" Position="133.585737,892.329211" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>UI System</String>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="230.445518,807.912418" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Systems in this Infrastructure system’s domain spans over entire app, thought to be Global</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="15.0" Position="492.0,358.0" Width="130.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.357439 0.431322 0.864131</Border>
+                <Fill>0.774815 0.812333 0.999383</Fill>
+            </Appearance>
+            <String>Supercomponents</String>
+        </Note>
+        <Note ID="68" FontSize="13.512255" Position="495.939754,399.511298" Width="85.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>Components</String>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="612.476151,398.738487" Width="156.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Unity of iteration is Components</String>
+        </Note>
+        <Note ID="70" FontSize="12.0" Position="1196.0,137.406881" Width="169.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.700721 0.700721 0.700721</Border>
                 <Fill>0.902657 0.902657 0.902657</Fill>
             </Appearance>
-            <String>* Use State design pattern, instead of lengthy if statement or switch.
-Never use switch.</String>
+            <String>Single Responsibility Principle</String>
+            <ConnectedNoteIDs>85</ConnectedNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="1196.0,165.406881" Width="132.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Open/Closure Principle</String>
+            <ConnectedNoteIDs>84</ConnectedNoteIDs>
+        </Note>
+        <Note ID="72" FontSize="12.0" Position="1196.0,193.406881" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Liskov Substitution Princile</String>
+            <ConnectedNoteIDs>83</ConnectedNoteIDs>
+        </Note>
+        <Note ID="73" FontSize="12.0" Position="1196.0,221.406881" Width="177.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Dependency Inversion Principle</String>
+            <ConnectedNoteIDs>82</ConnectedNoteIDs>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="1196.0,249.406881" Width="173.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Interface Segregation Principle</String>
+            <ConnectedNoteIDs>81</ConnectedNoteIDs>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="1431.471907,136.519255" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Reuse Release Equivalence Principle</String>
+            <ConnectedNoteIDs>78</ConnectedNoteIDs>
+        </Note>
+        <Note ID="76" FontSize="12.0" Position="1431.0,178.406881" Width="145.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Common Reuse Principle</String>
+            <ConnectedNoteIDs>79</ConnectedNoteIDs>
+        </Note>
+        <Note ID="77" FontSize="12.0" Position="1431.0,206.406881" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Common Closure Principle</String>
+            <ConnectedNoteIDs>80</ConnectedNoteIDs>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="1678.0,104.406881" Width="145.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>need to maintain together</String>
+            <ConnectedNoteIDs>75</ConnectedNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1675.0,171.406881" Width="165.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>reuse all the classes together</String>
+            <ConnectedNoteIDs>76</ConnectedNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1674.590593,209.818655" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>confine the influence of change within</String>
+            <ConnectedNoteIDs>77</ConnectedNoteIDs>
+        </Note>
+        <Note ID="81" FontSize="12.0" Position="985.0,303.0" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Don’t make fat interface
+Split if neccessary</String>
+            <ConnectedNoteIDs>74</ConnectedNoteIDs>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="951.0,247.0" Width="177.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Don’t depend on concrete class</String>
+            <ConnectedNoteIDs>73</ConnectedNoteIDs>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="912.858902,182.096907" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>make subtype replacable in the place of abstract w/o condition</String>
+            <ConnectedNoteIDs>72</ConnectedNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="924.01452,124.263889" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>closed against modification, open for extention</String>
+            <ConnectedNoteIDs>71</ConnectedNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="961.415088,71.921402" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>design so that change in a part does not force other unrelated part</String>
+            <ConnectedNoteIDs>70</ConnectedNoteIDs>
+        </Note>
+        <Note ID="86" FontSize="19.764706" Position="825.0,20.0" Width="295.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Class Dependency Management</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,27</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="88" FontSize="19.764706" Position="1441.442708,17.81392" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Package/ Component Dependency Management</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,40</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="1440.0,241.0" Width="166.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Acyclic Dependency Principle</String>
+            <ConnectedNoteIDs>90</ConnectedNoteIDs>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="1664.538603,254.638787" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>design compositional architecture bottom up, and break any cyclic dependency if any</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="1440.0,269.0" Width="163.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Stable Dependency Principle</String>
+            <ConnectedNoteIDs>93</ConnectedNoteIDs>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="1440.0,297.0" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Stable Abstraction Principle</String>
+            <ConnectedNoteIDs>94</ConnectedNoteIDs>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="1642.866889,322.490339" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>Instability should decrease toward the direction of dependency</String>
+            <ConnectedNoteIDs>91</ConnectedNoteIDs>
+        </Note>
+        <Note ID="94" FontSize="12.0" Position="1658.083731,382.943225" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>component should be as abstract as it is stable</String>
+            <ConnectedNoteIDs>92</ConnectedNoteIDs>
+        </Note>
+        <Note ID="96" FontSize="12.0" Position="707.0,1286.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.875267 0.561729 0.57507</Border>
+                <Fill>0.995971 0.824352 0.831289</Fill>
+            </Appearance>
+            <String>need to completely separate view from model, that is, the way a GUI Element changes its look need to be totally puggable and substitutable with some other ways of look modification</String>
+        </Note>
+        <Note ID="97" FontSize="12.0" Position="649.1875,356.063578" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
+            </Appearance>
+            <String>Class</String>
+        </Note>
+        <Note ID="98" FontSize="16.0" Position="422.0,287.0" Width="89.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>subheader</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="99" FontSize="12.0" Position="211.650913,1223.396187" Width="43.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Popup</String>
+        </Note>
+        <Note ID="100" FontSize="12.0" Position="211.650913,1251.396187" Width="117.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.700721 0.700721 0.700721</Border>
+                <Fill>0.902657 0.902657 0.902657</Fill>
+            </Appearance>
+            <String>Touch Control Panel</String>
+        </Note>
+        <Note ID="101" FontSize="16.0" Position="933.785156,1029.257812" Width="142.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Inventory System</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="102" FontSize="12.0" Position="940.294381,1079.904273" Width="113.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
+            </Appearance>
+            <String>InventoryItemEditor</String>
+        </Note>
+        <Note ID="103" FontSize="12.0" Position="940.294381,1107.904273" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
+            </Appearance>
+            <String>InventoryItem</String>
+        </Note>
+        <Note ID="104" FontSize="12.0" Position="940.294381,1135.904273" Width="127.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
+            </Appearance>
+            <String>InventoryItemInstance</String>
+        </Note>
+        <Note ID="105" FontSize="12.0" Position="940.294381,1163.904273" Width="92.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.819237 0.618412 0.181682</Border>
+                <Fill>0.900536 0.801799 0.554738</Fill>
+            </Appearance>
+            <String>PlayerInventory</String>
+        </Note>
+        <Note ID="107" FontSize="13.512255" Position="919.851562,925.058594" Width="147.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>Inventory Management</String>
+        </Note>
+        <Note ID="108" FontSize="16.0" Position="946.0,972.0" Width="206.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border>0.700721 0.700721 0.700721</Border>
+            </Appearance>
+            <String>Responsible Components</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,22</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="109" FontSize="13.512255" Position="1122.0,1014.0" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2" Style="Square">0.489806 0.635953 0.656368</Border>
+                <Fill>0.790725 0.910295 0.926541</Fill>
+            </Appearance>
+            <String>UI System</String>
         </Note>
     </Notes>
     <BackgroundShapes>
-        <Shape ID="19" Sticky="Yes" Position="49.489698,136.583448" Width="566.0" Height="400.0">
+        <Shape ID="19" Sticky="Yes" Position="99.322985,465.434005" Width="574.0" Height="384.97081">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
             <ConnectedNoteIDs>17</ConnectedNoteIDs>
         </Shape>
-        <Shape ID="8" Sticky="Yes" Position="418.734718,152.513565" Width="186.0" Height="137.0">
+        <Shape ID="8" Sticky="Yes" Position="402.322985,502.434005" Width="260.0" Height="136.0">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
             <ConnectedNoteIDs>1</ConnectedNoteIDs>
         </Shape>
-        <Shape ID="14" Sticky="Yes" Position="60.4105,347.02919" Width="164.0" Height="172.0">
+        <Shape ID="14" Sticky="Yes" Position="123.73273,621.725123" Width="243.316714" Height="166.97081">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
-            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+            <ConnectedNoteIDs>3, 65</ConnectedNoteIDs>
         </Shape>
-        <Shape ID="17" Sticky="Yes" Position="370.753091,396.126545" Width="171.0" Height="82.0">
+        <Shape ID="17" Sticky="Yes" Position="419.193862,713.483484" Width="193.0" Height="89.0">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
             <ConnectedNoteIDs>2, 19</ConnectedNoteIDs>
         </Shape>
-        <Shape ID="34" Sticky="Yes" Position="669.810955,141.12603" Width="379.0" Height="374.0">
+        <Shape ID="34" Sticky="Yes" Position="796.681831,449.582391" Width="379.0" Height="374.0">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
         </Shape>
-        <Shape ID="47" Sticky="Yes" Position="64.554945,589.916724" Width="327.0" Height="360.0">
+        <Shape ID="47" Sticky="Yes" Position="115.210535,875.1577" Width="327.0" Height="410.8423">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
-            <ConnectedNoteIDs>49-50</ConnectedNoteIDs>
+            <ConnectedNoteIDs>49-50, 62</ConnectedNoteIDs>
         </Shape>
-        <Shape ID="55" Sticky="Yes" Position="65.0,1009.0" Width="164.0" Height="140.0">
+        <Shape ID="55" Sticky="Yes" Position="514.541559,907.414948" Width="152.0" Height="151.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <ConnectedNoteIDs>45</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="87" Sticky="Yes" Position="814.0,4.0" Width="570.0" Height="339.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="95" Sticky="Yes" Position="1420.0,2.0" Width="466.0" Height="435.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="112" Sticky="Yes" Position="909.0,909.0" Width="295.0" Height="313.0">
+            <Appearance>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <ConnectedNoteIDs>15</ConnectedNoteIDs>
+        </Shape>
+        <Shape ID="106" Sticky="Yes" Position="922.785156,1013.257812" Width="164.0" Height="192.0">
             <Appearance>
                 <Border Weight="1" Style="Square"></Border>
             </Appearance>
         </Shape>
     </BackgroundShapes>
     <Stacks>
-        <Stack>1-3</Stack>
-        <Stack>5-7</Stack>
-        <Stack>10-13</Stack>
-        <Stack>15-16</Stack>
+        <Stack>16, 15</Stack>
         <Stack>21-23</Stack>
-        <Stack>25-27, 35</Stack>
+        <Stack>25-26</Stack>
+        <Stack>27, 35</Stack>
         <Stack>30-31</Stack>
         <Stack>38-39</Stack>
         <Stack>42-43</Stack>
-        <Stack>45-46</Stack>
         <Stack>49, 56</Stack>
         <Stack>52-54</Stack>
+        <Stack>70-74</Stack>
+        <Stack>75-77</Stack>
+        <Stack>89, 91-92</Stack>
+        <Stack>99-100</Stack>
+        <Stack>102-105</Stack>
     </Stacks>
-    <AutoFit>0-7, 9-13, 15-16, 18, 20-32, 34-39, 42-47, 50-55</AutoFit>
+    <AutoFit>0-3, 7, 9, 11, 15-16, 18, 20-32, 34-35, 37-39, 42-46, 50-54, 59-63, 67-68, 70-74, 76-79, 81-82, 86, 89, 91-92, 95, 97-109</AutoFit>
     <NoteStyles>
-        <Style Name="Title Text" ID="24A8BB77-C271-4078-91E4-945D26FE42FF" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
-            <FontSize>28.0</FontSize>
+        <Style Name="Class" ID="2180720F-8A8D-440F-8131-1F8EFFD54FB9" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.819237 0.618412 0.181682</BorderColor>
+            <FillColor>0.900536 0.801799 0.554738</FillColor>
+            <Size>39.0,150.0</Size>
+        </Style>
+        <Style Name="Components" ID="047006C4-AF5F-46BD-9791-C80AFDE7FD79" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>13.512255</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.489806 0.635953 0.656368</BorderColor>
+            <FillColor>0.790725 0.910295 0.926541</FillColor>
+            <Size>85.0,150.0</Size>
+        </Style>
+        <Style Name="Header" ID="5E41333B-3E55-4B8F-87A9-15C839FD7E23" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>19.764706</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>0</BorderThickness>
+            <BorderColor>0.700721 0.700721 0.700721</BorderColor>
+            <Size>83.0,150.0</Size>
+            <IsUnderlined>Yes</IsUnderlined>
+        </Style>
+        <Style Name="Note" ID="E860D115-B1CD-497E-9828-EE60EFD792C5" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.875267 0.561729 0.57507</BorderColor>
+            <FillColor>0.995971 0.824352 0.831289</FillColor>
+            <Size>200.0,150.0</Size>
+        </Style>
+        <Style Name="Subheader" ID="518569BB-A5DE-4F20-AB24-B9C1158A57E2" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>16.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>0</BorderThickness>
+            <BorderColor>0.700721 0.700721 0.700721</BorderColor>
+            <Size>89.0,150.0</Size>
             <IsBold>Yes</IsBold>
         </Style>
-        <Style Name="Red Text" ID="2AA79E4D-FA6C-4B6F-9468-7F89E7A77DEF" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
-            <TextColor>1.0 0.0 0.0</TextColor>
-        </Style>
-        <Style Name="Brown Bubble" ID="64D73DDB-7DE7-4311-90DD-07695415EB13" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
-            <FillColor>0.940019 0.892907 0.779716</FillColor>
-        </Style>
-        <Style Name="Yellow Bubble" ID="B2712FD0-58A7-40B3-BF14-36480DC24453" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
-            <FillColor>0.906773 0.910625 0.634363</FillColor>
-        </Style>
-        <Style Name="Green Bubble" ID="2A9AF361-0B40-43DB-9F18-28FEAA202E1A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
-            <FillColor>0.790123 0.882328 0.80198</FillColor>
-        </Style>
-        <Style Name="Blue Bubble" ID="BD8B2DA7-1487-4FD9-AEB8-F45EEB48A2C9" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
-            <FillColor>0.840969 0.866828 0.925903</FillColor>
-        </Style>
-        <Style Name="Pink Bubble" ID="C5400502-3824-4AD0-86AF-3F60E2B197FE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
-            <BorderThickness>1</BorderThickness>
-            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
-            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        <Style Name="Supercomponents" ID="214A6726-B9F6-445B-B3BC-64035A66881C" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>14.889706</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Square</BorderStyle>
+            <BorderColor>0.357439 0.431322 0.864131</BorderColor>
+            <FillColor>0.774815 0.812333 0.999383</FillColor>
+            <Size>129.0,150.0</Size>
         </Style>
     </NoteStyles>
     <UISettings>
